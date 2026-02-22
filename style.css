@@ -1,0 +1,10 @@
+body {
+    background: #f4f6f9;
+}
+.container {
+    margin-top: 80px;
+}
+.card {
+    padding: 20px;
+    border-radius: 10px;
+}
